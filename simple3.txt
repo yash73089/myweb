@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-this is second commit in file
-this is third commit in file
-<<<<<<< HEAD
-this is fourth commit in file
-=======
->>>>>>> parent of d996e2e... simple3.txt
-=======
->>>>>>> parent of 703cd95... fourth commit
