@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 this is second commit in simple6
 this is third commit in simple6
+=======
+>>>>>>> parent of 9bdb81b... simple6 second commit
